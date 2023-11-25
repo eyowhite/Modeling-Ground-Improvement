@@ -29,9 +29,9 @@ Development of predictive models for soil strength using ML techniques, comparin
 
 ### Project Tools
 
-Machine Learning frameworks for regression and classification.
-Statistical analysis software - SPSS
-Data visualisation tools - Excel
+1. Machine Learning frameworks for regression and classification.
+2. Statistical analysis software - SPSS
+3. Data visualisation tools - Excel
 
 ### Project Analysis Dashboards
 
