@@ -1,7 +1,15 @@
 # Predictive Soil Strength Modeling
 
 ## Table of Contents
+- [Project Description](#project-description)
+- [Project Objectives](#project-objectives)
+- [Project Methodology](#project-methodology)
+- [Machine Learning Flowchart](#machine-learning-flowchart)
+- [Project Tools](#project-tools)
+- [Project Analysis Dashboards](#project-analysis-dashboards)
+- [Project Outcomes](#project-outcomes)
 
+  
 ### Project Description
 Development of predictive models for soil strength using ML techniques, comparing stand-alone, tree-ensemble, and meta-ensemble approaches.
 
