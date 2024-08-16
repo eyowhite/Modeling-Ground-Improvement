@@ -11,7 +11,7 @@
 
   
 ### Project Description
-Development of predictive models for soil strength using ML techniques, comparing stand-alone, tree-ensemble, and meta-ensemble approaches.
+Development of [predictive models](https://eyowhite.com/projects/) for soil strength using ML techniques, comparing stand-alone, tree-ensemble, and meta-ensemble approaches.
 
 ### Project Objectives
 1. To predict soil strength with high accuracy using ML models.
